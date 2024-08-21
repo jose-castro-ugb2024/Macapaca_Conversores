@@ -399,7 +399,7 @@ namespace Macapaca_Conversores
                         {
                             Console.WriteLine("cantidad de Galones: ");
                             double gals1 = Convert.ToDouble(Console.ReadLine());
-                            double litros9 = gals1 * 52.143;
+                            double litros9 = gals1 * 3.785;
                             Console.WriteLine("lt = " + litros9);
                             Console.WriteLine("Presiona enter para continuar");
 
